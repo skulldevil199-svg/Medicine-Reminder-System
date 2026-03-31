@@ -1,0 +1,53 @@
+[
+  {
+    "id": "36664668-fe1a-44ab-ba47-8668d87e6b78",
+    "name": "DOLO-450",
+    "dosage": "1",
+    "times": [
+      "12:12"
+    ],
+    "notes": "take it with water at time of fever\\",
+    "created_at": "2026-03-31T17:03:02.299386",
+    "updated_at": "2026-03-31T17:04:30.066613"
+  },
+  {
+    "id": "b6a2d30a-6293-4d59-8e61-cc72fb21d57e",
+    "name": "norflox Z",
+    "dosage": "1",
+    "times": [
+      "01:56"
+    ],
+    "notes": "only when feel like diarya",
+    "created_at": "2026-03-31T17:04:07.903603"
+  },
+  {
+    "id": "1fe505d6-5707-4e15-8126-c9ff2862fc40",
+    "name": "seradon",
+    "dosage": "1",
+    "times": [
+      "3:35"
+    ],
+    "notes": "when u have headache",
+    "created_at": "2026-03-31T17:05:27.541367"
+  },
+  {
+    "id": "1d806cfb-9c64-421b-80ef-c40466aa9e99",
+    "name": "ashvagandha",
+    "dosage": "1-3",
+    "times": [
+      "20:30"
+    ],
+    "notes": "when u are in mood",
+    "created_at": "2026-03-31T17:07:07.571306"
+  },
+  {
+    "id": "4b294804-70dd-4a06-8701-c3c156056069",
+    "name": "GUDCEF-CV200",
+    "dosage": "1",
+    "times": [
+      "17:45"
+    ],
+    "notes": "WHEN FEEL DIZYY",
+    "created_at": "2026-03-31T17:08:25.260171"
+  }
+]
