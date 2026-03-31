@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+
+# Runtime data — auto-generated, do not commit
+data/medicines.json
+data/logs.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
